@@ -1,0 +1,2 @@
+import streamlit as st
+st.download_button("Ouvrir PDF", "Formation_Scalping_ICT_SMC_Full.pdf")
